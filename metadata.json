@@ -1,0 +1,6 @@
+{
+  "name": "AgriVision AI",
+  "description": "AI-powered Smart Agriculture and Precision Farming platform featuring GIS management zones, satellite NDVI monitoring, IoT sensors, crop health scoring, and zone-specific farming recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
